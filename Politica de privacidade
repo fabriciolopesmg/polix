@@ -1,0 +1,49 @@
+Política de Privacidade do Aplicativo Polix	
+
+Documento criado em: 30/09/2024
+
+Esta é a Política de Privacidade para o aplicativo Polix, o qual foi desenvolvido pela P3 do 30º BPM, e somente se aplica para sua versão Android. 
+O aplicativo Polix leva muito a sério as suas informações privadas.
+Esta Política de Privacidade foi feita para garantir a transparência no uso que fazemos das informações geradas pelo Polix, mostra nossas práticas de privacidade e descreve como tratamos as informações que são inseridas por você ou coletadas quando você utiliza o Polix.
+Ao utilizar o aplicativo, você estará consentindo a coleta, armazenamento e outros usos de suas informações como descrito nesta Política de Privacidade. Por favor, leia cuidadosamente.
+Esta política de privacidade pode ser alterada e estará disponível para consulta a qualquer momento por qualquer um que desejar acessá-la.
+O QUE ESTA POLÍTICA COBRE
+Esta Política de Privacidade cobre como tratamos as informações colhidas quando você está utilizando ou acessando o aplicativo Polix.
+Esta Política de Privacidade não se aplica às práticas de terceiros que não pertence, controla e/ou gerencia o Polix; incluindo terceiros como websites, serviços e aplicações (“Serviços de terceiros”). Buscamos trabalhar apenas com serviços de terceiros transparentes e não nos responsabilizamos com o conteúdo ou políticas de privacidades destes serviços. Recomendamos você a revisar cuidadosamente as políticas de privacidade de todos os terceiros que você acessar para ficar ciente de como é feito o tratamento das informações coletadas por eles.
+
+
+
+DAS INFORMAÇÕES USADAS PELO APLICATIVO E SUAS MOTIVAÇÕES
+Informações de acesso e utilização de ferramenta: 
+Não é possível realizar cadastro através do aplicativo Polix. As contas são previamente criadas pela equipe da P3 do 30º BPM e os dados de login são enviados aos respectivos usuários selecionados.
+
+Os dados do cadastro são utilizados para permitir o acesso do usuário a determinados conteúdo do app, exclusivo para usuários cadastrados.
+As contas de usuários são pré-cadastradas, e exclusivas para usuários que irão trabalhar na eleição. Os dados do cadastro são enviados previamente para a P3 do 30º BPM, a qual fica responsável pela inserção na plataforma.
+Firebase: O Firebase é uma plataforma da Google que nos ajuda a construir aplicativos melhores e entender melhor nossos usuários. Mais informações sobre o Firebase em Sobre o Firebase,  Política de privacidade do Firebase.
+Firebase Cloud Messaging (FCM): é um serviço que permite enviar notificações e mensagens para dispositivos Android, iOS e web. Ele é parte do Firebase, uma plataforma do Google para desenvolvimento de aplicativos.
+Firebase Firestore é um banco de dados NoSQL em tempo real que permite armazenar, sincronizar e consultar dados para aplicativos web e móveis. Ele faz parte da plataforma Firebase.
+Firebase Storage é um serviço que permite armazenar e servir arquivos, como imagens, vídeos e outros tipos de dados não estruturados.
+
+Informações de estado de rede e internet: essas informações serão utilizadas estritamente para verificar se uma determinada requisição deve ser enviada para o servidor ou se deve ser mantida no aparelho até que haja um estado de conexão adequado para execução das requisições.
+Leitura e escrita de disco: o aplicativo se limitará a ver o conteúdo por ele produzido e não fará acesso a qualquer outro conteúdo que esteja gravado no seu dispositivo. Será acessado apenas as informações armazenadas em cache, as quais foram gerados pelo próprio app, uma vez que devido à natureza de sua finalidade, as informações off-line precisam estar disponíveis para você.
+Localização GPS: as informações de GPS do aparelho são usadas para as seguintes finalidades:
+1.	Traçar a rota no mapa para que o usuário possa deslocar até o ponto de destino. Neste caso, o aplicativo Polix obterá as coordenadas de localização (GPS) somente em Primeiro plano.
+2.	Apresentar sua localização no mapa, para que em caso de acionamento de PRIORIDADE,  os demais usuários/policiais possam chegam até você e realizar o apoio policial. Neste caso, o aplicativo Polix obterá as coordenadas de localização (GPS) somente em Primeiro plano.
+As informações de posição não serão acessadas fora desses momentos e só serão gravadas no caso da opção 2.
+
+REGRAS DE ACESSO ÀS INFORMAÇÕES
+Todas as informações que o usuário insere no aplicativo pertencem ao app Polix e poderão ser vistas por outros usuários do sistema, não podendo qualquer usuário alegar propriedade sobre elas. Os dados pessoais do usuário utilizados para criação da conta serão armazenadas na plataforma durante o período necessário para prestação do serviço ou o cumprimento da finalidade previstas no presente documento.
+
+ACESSO ÀS INFORMAÇÕES
+Se o usuário achar que as informações inseridas no aplicativo possam lhe ser úteis em sede de processos ou procedimentos administrativos ou judiciais, poderá requisitar acesso a elas por meio do e-mail p3.30bpm@gmail.com.
+
+REGRAS DE SIGILO
+Todas informações produzidas pelo app são sigilosas e de acesso restrito às pessoas que possuem um par de usuário e senha cedidos pela P3 do 30º BPM.
+A divulgação das informações para terceiros não autorizados a acessar o aplicativo é proibida, salvo nos casos em que for essencial ao exercício das atividades profissionais.
+
+ALTERAÇÕES DESTA POLÍTICA DE PRIVACIDADE
+A P3 do 30º BPM reserva-se ao direito de alterar este termo de privacidade sem aviso prévio. Deste modo, recomendamos que consulte a nossa Política de Privacidade com regularidade de forma a estar sempre atualizado. É responsabilidade do usuário verificar esta política para garantir a sua aceitação dos novos termos.
+Caso esta política tenha algum conflito com alguma norma legal nacional ou institucional, a regra inscrita na norma terá prevalência sobre o que estabelece essa política.
+
+DEMAIS DÚVIDAS
+Caso você possua alguma dúvida com relação a esta Política de Privacidade, por favor envie-nos um e-mail p3.30bpm@gmail.com.
